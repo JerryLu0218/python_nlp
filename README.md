@@ -7,16 +7,15 @@
 - [google-bert/bert-base-chinese](https://huggingface.co/google-bert/bert-base-chinese)
 
 ## 安裝套件
-- torch (版本號)
-- torchvision (版本號)
-- torchaudio (版本號)
-- transformers (版本號)
-- datasets (版本號)
-- evaluate (版本號)
-- accelerate (版本號)
-- scikit-learn (版本號)
-(版本號可用 pip list，或是 conda list 來檢視)
-...
+- torch (2.6.0)
+- torchvision (0.21.0)
+- torchaudio (2.6.0)
+- transformers (4.48.3)
+- datasets (3.2.0)
+- evaluate (0.4.3)
+- accelerate (1.3.0)
+- scikit-learn (1.5.5)
+
 
 ## 說明
 (介紹你微調後的模型，主要用來做什麼的，例如你使用模型進行情緒分類，分成幾類…等等，再放上作業要求的 texts 預測結果，自由發揮)
@@ -24,10 +23,7 @@
 ## 成果
 ![](執行過程的擷圖或說明圖片)
 ...
-[YT影片]((https://youtu.be/b0VQH7-pZ_4))
-...
-
-## 其它你想要補充標題和內容
+[![image](https://github.com/user-attachments/assets/d1f7d321-003a-4146-a86d-c9c3173c1cce)](https://youtu.be/b0VQH7-pZ_4)
 ...
 ...
-https://youtu.be/b0VQH7-pZ_4
+...
